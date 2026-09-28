@@ -1,0 +1,23 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nagraj05/learn-js#readme",
+  "bugs": {
+    "url": "https://github.com/nagraj05/learn-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagraj05/learn-js.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
